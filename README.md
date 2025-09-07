@@ -106,10 +106,10 @@ Dashboard features:
 
 ## 🔹 Dashboard Preview
 
-*(Insert screenshot of your Power BI dashboard here)*
+![Pizza_Dashboard](https://github.com/Coolbuddy145/Customer-Churn-Analysis-SQL-Python-PowerBI/blob/7364b161588413d79680cb5c09785a65c2a1d8a9/Dashboard%20Img.jpg)
 
 ---
 
 ## 📌 Author
 
-Your Name — *Aspiring Data Analyst*
+Zaid Khan — *Aspiring Data Analyst*
